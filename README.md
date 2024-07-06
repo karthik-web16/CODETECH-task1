@@ -34,7 +34,7 @@ THE DEVELOPMENT PROCESS INVOLVED:
 4.Testing and Debugging: Ensuring the application works as expected and fixing any issues that arise.
 5.Version Control: Using Git and GitHub to manage changes and document the development process.
 
-CONCCLUSION:
+CONCLUSION:
 
 The To-Do List Application is a practical and user-friendly project that highlights the power of HTML, CSS, and JavaScript in creating dynamic web applications. By integrating with GitHub, the project not only demonstrates technical skills but also showcases effective project management and collaboration practices. This project serves as a solid foundation for further exploration and development in web technologies.
 
