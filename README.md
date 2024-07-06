@@ -23,9 +23,9 @@ todo-list/
 
 
 SETTING UP :
-1.CLONE REPOSITORY LOCALLY : git clone "https://github.com/karthik-web16/internship-task1.git"
+1.CLONE REPOSITORY LOCALLY : git clone "https://github.com/karthik-web16/To-DO-List.git"
 
-2.NAVIGATING TO THE PROJECT DIRECTORY : cd todo-list
+2.NAVIGATING TO THE PROJECT DIRECTORY : cd To-Do List
 
 3.ADDING HTML FILE IN DIRECTORY : touch index.html
 
