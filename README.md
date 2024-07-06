@@ -23,7 +23,7 @@ todo-list/
 
 
 SETTING UP :
-1.CLONE REPOSITORY LOCALLY : git clone "https://github.com/karthik-web16/To-DO-List.git"
+1.CLONE REPOSITORY LOCALLY : git clone "https://github.com/karthik-web16/CODETECH-task1.git"
 
 2.NAVIGATING TO THE PROJECT DIRECTORY : cd To-Do List
 
